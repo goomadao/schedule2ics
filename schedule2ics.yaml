@@ -1,0 +1,11 @@
+BeginningOfSchedule: A2 # It should be A2 in the schedule.xlsx
+MondayOfFirstWeek: 2020-09-14 # The leading zero cannot be omitted
+Timezone: PRC # People's Republic of China
+WeeksOfTerm: 16 # How many weeks are there in this term
+RangeOfClasses: # Define the period of every class in a day. The leading zero cannot be omitted
+  - 08:00-09:35
+  - 09:50-12:15
+  - 13:30-15:05
+  - 15:20-16:55
+  - 17:05-18:40
+  - 19:20-21:45
